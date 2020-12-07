@@ -1,1 +1,1 @@
-# python_gui_weather
+# python_gui_weather_app
